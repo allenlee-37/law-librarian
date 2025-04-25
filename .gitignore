@@ -1,0 +1,28 @@
+# macOS 관련 파일
+.DS_Store
+
+# 가상환경
+venv/
+ENV/
+env/
+.venv/
+
+# 환경 변수 파일
+.env
+env
+
+# 로그 파일
+*.log
+
+# IDE/에디터 관련
+.vscode/
+.idea/
+
+# 빌드 결과물
+build/
+dist/
+*.egg-info/
+
+# 기타
+*.swp
+*.swo
