@@ -26,3 +26,6 @@ dist/
 # 기타
 *.swp
 *.swo
+
+# tester
+.ipynb
