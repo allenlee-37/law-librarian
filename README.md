@@ -31,14 +31,11 @@ Designed to assist **lawyers, labor attorneys, and other legal practitioners in 
 - **Chroma / FAISS** – Vector DB for document retrieval
 - **Streamlit / Gradio** _(optional)_ – for interactive UI
 
-## 🚀 Getting Started
+## 🚧 Getting Started
 
-Coming soon...
-
-## 📝 License
-
-MIT License
+> 🚧 **This project is currently under development.**  
+> Full installation and usage instructions will be added soon.
 
 ## 🙋‍♂️ Author
 
-Built by [Your Name or Team Name]
+Built by **Allen Lee**
